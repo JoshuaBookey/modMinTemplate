@@ -1,3 +1,3 @@
-# modernMinimalistTemplate
+# modMinTemplate
 
-A modern minimalistic HTML5/PHP based template for starting projects from scratch.
+A modern minimalistic template for HTML5 and PHP projects.
